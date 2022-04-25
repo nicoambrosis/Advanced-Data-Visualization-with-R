@@ -1,5 +1,11 @@
 # Advanced-Data-Visualization-with-R
-This project contains material made as part of the John Hopkins University course "Advanced Data Visualization with R" delivered through the Coursera platform
+
+<p align="left"> 
+  <a href="https://gganimate.com/" target="_blank" rel="noreferrer"> <img src="https://gganimate.com/reference/figures/logo.png" alt="gganimate" width="90" height="90"/> </a>
+  <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot" width="90" height="90"/> </a>
+
+  
+  This project contains material made as part of the John Hopkins University course "Advanced Data Visualization with R" delivered through the Coursera platform
 
 In this page you will find the files that have been made as part of this project.
 
