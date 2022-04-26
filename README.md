@@ -27,17 +27,28 @@ In this page you will find the plots and lines of code that have been made as pa
 * Animate figures using ggplotly()
 
 ## Some examples
-### Making a stacked area graph
+### [Making a stacked area graph](https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/More%20figures%20for%20temporal%20data/Making%20a%20stacked%20area%20graph.R)
+
 <p align="center">
   <img src="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/More%20figures%20for%20temporal%20data/Making%20a%20stacked%20area%20graph.png">
 </p>
 
-[code here](https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/More%20figures%20for%20temporal%20data/Making%20a%20stacked%20area%20graph.R)
 
-### Drawing Scatterplot Matrices
+
+### [Drawing Scatterplot Matrices](https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/Extensions%20of%20Scatterplots/Drawing%20Scatterplot%20Matrices.R)
 <p align="center">
   <img src="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/Extensions%20of%20Scatterplots/Drawing%20Scatterplot%20Matrices.png">
 </p>
 
-[code here](https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/Extensions%20of%20Scatterplots/Drawing%20Scatterplot%20Matrices.R)
 
+
+### [USA#1](https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%202/Choropleths_by_NMA.R)
+<p align="center">
+  <img src="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%202/Choroplets_%232.png">
+</p>
+
+
+### [Sidney](https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%202/maps-advanced.R)
+<p align="center">
+  <img src="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%202/Sidney.png">
+</p>
