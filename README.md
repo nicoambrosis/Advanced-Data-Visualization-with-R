@@ -26,4 +26,18 @@ In this page you will find the plots and lines of code that have been made as pa
 * Create animated figures using gganimate()
 * Animate figures using ggplotly()
 
-  ## Some examples
+## Some examples
+### Making a stacked area graph
+<p align="center">
+  <img src="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/More%20figures%20for%20temporal%20data/Making%20a%20stacked%20area%20graph.png">
+</p>
+
+[code here](https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/More%20figures%20for%20temporal%20data/Making%20a%20stacked%20area%20graph.R)
+
+### Drawing Scatterplot Matrices
+<p align="center">
+  <img src="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/Extensions%20of%20Scatterplots/Drawing%20Scatterplot%20Matrices.png">
+</p>
+
+[code here](https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Week%201/Extensions%20of%20Scatterplots/Drawing%20Scatterplot%20Matrices.R)
+
