@@ -55,6 +55,11 @@ In this page you will find the plots and lines of code that have been made as pa
 </p>
 
 
+## Certificate
+<p align="center">
+  <img src="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Certificate.jpg">
+</p>
+
 
 
 
