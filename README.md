@@ -61,7 +61,7 @@ In this page you will find the plots and lines of code that have been made as pa
 </p>
 
 
-<meta property="og:image" content="https://www.rd.com/wp-content/uploads/2020/01/GettyImages-454238885-scaled.jpg" />
+<meta property="og:image" content="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/GettyImages-454238885-scaled.jpg" />
 
 
 
