@@ -62,5 +62,5 @@ In this page you will find the plots and lines of code that have been made as pa
 
 
 
-
+<meta name="twitter:card" content="https://avatars.githubusercontent.com/u/57463307?v=4?s=400">
 
