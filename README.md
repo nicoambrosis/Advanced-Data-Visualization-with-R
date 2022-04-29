@@ -60,7 +60,3 @@ In this page you will find the plots and lines of code that have been made as pa
   <img src="https://github.com/nicoambrosis/Advanced-Data-Visualization-with-R/blob/main/Certificate.jpg">
 </p>
 
-
-
-<meta name="twitter:card" content="https://avatars.githubusercontent.com/u/57463307?v=4?s=400">
-
